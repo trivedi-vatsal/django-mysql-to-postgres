@@ -7,10 +7,10 @@ This guide provides a fast, streamlined process for migrating your Django applic
 Answer these questions to choose the right migration path for you.
 
 1. **Do you need to preserve existing data?**
-    - ✅ **Yes, this is a production or staging environment.**
+    - **Yes, this is a production or staging environment.**
 
         → Follow **[Path B: Data Migration](#path-b-data-migration)**.
-    - ❌ **No, this is for development or testing.**
+    - **No, this is for development or testing.**
 
         → Follow **[Path A: Fresh Migration](#path-a-fresh-migration)**.
 
